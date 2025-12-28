@@ -7,6 +7,7 @@ import factory2.DriverFactory2;
 import io.cucumber.java.en.*;
 
 public class Login2Step {
+	//tested comment detail added
 	WebDriver driver;
 	public Login1Page lp;
 	@Given("User enter valid Username {string}")
